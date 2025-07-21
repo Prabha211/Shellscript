@@ -1,4 +1,4 @@
 FROM nginx:latest
-COPY index.html .
+COPY https://github.com/Prabha211/Shellscript.git/index.html .
 EXPOSE 8080
 
